@@ -5,13 +5,10 @@ This repository contains a dataset of news article headlines labeled with four c
 ## Dataset
 The dataset consists of news article headlines, and each headline is associated with one of the following numerical labels:
 
-0: World
-
-1: Sports
-
-2: Business
-
-3: Sci/Tech
+- 0: World
+- 1: Sports
+- 2: Business
+- 3: Sci/Tech
 
 ### [Dataset link](https://www.kaggle.com/datasets/vrindakallu/ag-news-topic-classification)
 
